@@ -1,7 +1,6 @@
-# Monitoreo usando ThingSpeak, Blynk
-# Deteccion de enfermedades usando Jupyter Notebook
+# Monitoreo usando ThingSpeak, Blynk y deteccion de enfermedades usando Jupyter Notebook.
 
-# Redes de comunicaciones 1.  
+## Redes de comunicaciones 1.  
 ## Ingenieria de Sistemas 2021-1.
 ### Proyecto del curso.
 
