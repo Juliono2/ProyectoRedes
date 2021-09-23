@@ -11,11 +11,11 @@
 ### Descripcion:
 
 El presente repositorio, contiene el documentado de los procesos llevados a cabo para el desarrollo
-de un sistema de monitoreo en una huerta, automatizacion de riego, comunicacion serial de entre controladores,
-envio de informacion via WiFi, a un servidor de ThingSpeak, graficado e interpretacion de datos obtenidos, 
-procesamiento de imagenes usando MachineLearning y el algoritmo de Birch, para la deteccion de enfermedades
-usando Jupyter Notebook basado en python, adicionalmete utilizamos Blynk para la notificacion de variables de 
-estado.
+de un sistema de monitoreo en una huerta, es decir, un proyecto de IoT, automatizacion de riego,
+comunicacion serial de entre controladores, envio de informacion via WiFi, a un servidor de ThingSpeak,
+graficado e interpretacion de datos obtenidos, procesamiento de imagenes usando MachineLearning y
+el algoritmo de Birch, para la deteccion de enfermedades usando Jupyter Notebook basado en python, 
+adicionalmete utilizamos Blynk para la notificacion de variables de estado.
 
 <hr>
 ## Librerias para arduino
